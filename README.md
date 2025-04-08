@@ -32,6 +32,7 @@ yourname-day-01/
 yourname-day-02/
     ├── what-can-i-do-today.md
     ├── what-i-actually-achieved.md
+    
 ```
 
 ## 🌍 **Join the Community!**  
