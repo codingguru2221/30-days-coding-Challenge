@@ -1,5 +1,3 @@
-
-
 # **🚀 30-Day Learning Challenge (Open Source!)**  
 
 Welcome to the **30-day learning challenge**, an open-source initiative where anyone can learn a new skill, document their journey, and collaborate with others! Whether you're diving into a new programming language, improving your design abilities, or picking up an entirely different skill—this challenge is for you.  
