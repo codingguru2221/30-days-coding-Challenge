@@ -8,6 +8,7 @@ Today’s focus is on the following Java concepts:
 - Classes
 - Objects
 
+
 ---
 
 ## Day 10 - Progress 📘
