@@ -41,4 +41,3 @@
 
 _“Success is the sum of small efforts, repeated day in and day out.” – Robert Collier_
 
-> Keep going, Codex. A delay is not a derailment—Day 12 will be stronger. 🔥
